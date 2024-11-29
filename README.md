@@ -66,14 +66,20 @@ In conclusion, gym pose estimation technology has emerged as a valuable tool in 
 
 
 # Articles published / References:
-[1] Asbjørn Følstad and Marita Skjuve. 2019. Chatbots for customer service: user experience and motivation. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19). Association for Computing Machinery, New York, NY, USA, Article 1, 1–9. https://doi.org/10.1145/3342775.3342784
-[2] Su, Hongjin, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen Yih, Noah A. Smith, Luke Zettlemoyer, and Tao Yu. "One Embedder, Any Task: Instruction-Finetuned Text Embeddings." ArXiv, (2022). /abs/2212.09741. N W Marti et al 2020 J. Phys.: Conf. Ser. 1516 012022
-[3] Kim, S., Rawat, A. S., Zaheer, M., Jayasumana, S., Sadhanala, V., Jitkrittum, W., Menon, A. K., Fergus, R., & Kumar, S. (2023). EmbedDistill: A Geometric Knowledge Distillation for Information Retrieval. ArXiv. /abs/2301.12005 
-[4] Dao, Mai Thi Hong. "International Journal of Management and Organizational Research." (2023)
+-I.	[1 Liu, Y., Xu, Y., Li, S.: 2-D human pose estimation from images based on deep learning: a review. In: 2018 2nd IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC), Xi’an, pp. 462–465 (2018)
 
-[5] Jahan, Md Saroar, et al. "A Comprehensive Study on NLP Data Augmentation for Hate Speech Detection: Legacy Methods, BERT, and LLMs." arXiv preprint arXiv:2404.00303 (2024).
-[6] Malode, Vishal Manjunatha. Benchmarking public large language model. Diss. Technische Hochschule Ingolstadt, 2024.
-[7] L. Padoan, M. Cesetti, L. Brunello, M. Antonelli, B. Zamengo and F. Silvestri, "Mobility ChatBot: supporting decision making in mobility data with chatbots," 2024 25th IEEE International Conference on Mobile Data Management (MDM), Brussels, Belgium, 2024, pp. 295-300, doi: 10.1109/MDM61037.2024.00061. keywords: {Structured Query Language;Large language models;Decision making;Natural languages;Data visualization;Transportation;Writing;Mobility data;Large Language Models;decision making;agents},
+-II.	Tang, Z., Gu, R., Hwang, J.: Joint multi-view people tracking and pose estimation for 3D scene reconstruction. In: 2018 IEEE International Conference on Multimedia and Expo (ICME), San Diego, CA, pp. 1–6 (2018)
+
+-III.	Takahashi, K., Mikami, D., Isogawa, M., Kimata, H.: Human pose as calibration pattern: 3D human pose estimation with multiple unsynchronized and uncalibrated cameras. In: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Salt Lake City, UT, USA, pp. 1856–18567 (2018)
+
+-IV.	Fang, H., Xie, S., Tai, Y., Lu, C.: RMPE: regional multi-person pose estimation. In: 2017 IEEE International Conference on Computer Vision (ICCV), Venice, pp. 2353–2362 (2017)
+
+-V.	[5]	R. T. S. A. a. R. M. R. G. Sharma, "A novel real-time face detection system using modified affine transformation and Haar cascades," Recent Findings in Intelligent Computing Techniques. Springer, Singapore, no. 193-204, 2019.
+
+-VI.	[6]	S. R. Y. W. X. C. a. J. S. D. Chen, "Joint cascade face detection and alignment," Proc. ECCV, 2014.
+
+-VII.	[7]	D. R. X. Zhu, "Face detection, pose estimation, and landmark localization in the wild," IEEE Conference on Computer Vision and Pattern Recognition, pp. 2879-2886, 2012 
+
 
 
 
