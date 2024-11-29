@@ -10,27 +10,17 @@ resources.
 # Features
 ```
 -Real-Time Pose Estimation
-
-
 -Dynamic Movement Tracking
-
-
 -Enhanced Accuracy and Speed
-
-
 -Error Detection and Correction
-
-
 -Multi-Activity Compatibility
-
-
 -User-Centric Design
-
-
 ```
 # Requirements:
 ```
-#Software Requirements
+```
+# Software Requirements:
+
 Python 3.8+: Main programming language for development.
 YOLOv7 Framework: For pose estimation.
 PyTorch: Deep learning framework for model implementation.
