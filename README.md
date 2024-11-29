@@ -43,8 +43,8 @@ Camera: High-resolution camera for accurate pose detection during testing.
 ![Screenshot 2024-11-29 211125](https://github.com/user-attachments/assets/618e7c4e-0756-4eb7-8e1a-1d4e7b191f5d)
 
 
-### Click the browse file buttom to upload the pdf documents
-![image](https://github.com/user-attachments/assets/a2d48321-6658-4746-9e49-3006689d5045)
+### AFTER THAT THE PROGRAM WILL RUN THEN LIKE GIVE OUTPUT 
+![Screenshot 2024-11-29 211125](https://github.com/user-attachments/assets/ad1bb32d-155f-4def-ada9-b87bcb375175)
 
 ### After uploading the pdf doc’s click on summit & process button
 ![image](https://github.com/user-attachments/assets/3a7236a4-62f3-41ff-ade4-a4fc99911cae)
