@@ -1,19 +1,7 @@
 # POSE-ESTIMINATION-OF-GYM-WORKOUT-USING-YOLOV7
 
 # Aim:
-Human Pose Estimation is a computer vision-based technology that identifies and classifies specific points on the human body.These points represent our limbs and joints to calculate the angle of flexion, and estimate, well, human pose. While it sounds awkward, knowing the right angle of a joint in a specific exercise is the basis of work for physiotherapists, fitness trainers, and artists. Implementing such capabilities for a
-machine results in surprisingly useful applications in different
-fields. We’ll figure out its principle of work and capabilities to
-understand suitable business cases. Also, we’ll analyze
-different approaches to Human Pose Estimation as a machine
-learning technology, and try to define the applications for each.
-The process usually involves the extraction of joints on a human
-body, and then analysis of a human pose by deep learning
-algorithms. If the human pose estimation system uses video
-records as a data source, key points (joints locations) are
-detected from a sequence of frames, not a single picture. It
-allows us to achieve more accuracy as the system analyzes an
-actual movement of a person, not a steady position.
+Human Pose Estimation is a computer vision-based technology that identifies and classifies specific points on the human body.These points represent our limbs and joints to calculate the angle of flexion, and estimate, well, human pose. While it sounds awkward, knowing the right angle of a joint in a specific exercise is the basis of work for physiotherapists, fitness trainers, and artists. Implementing such capabilities for a machine results in surprisingly useful applications in different fields.
 # About:
 This project integrates Google's Gemini Pro, LangChain, and FAISS to create an advanced document search and retrieval system. It efficiently indexes and searches through multiple PDF documents using FAISS vector embeddings for high-dimensional similarity searches. This combination allows for fast, accurate retrieval of relevant information, making it an ideal tool for research, legal, and academic use cases that require detailed document analysis.
 # Features
