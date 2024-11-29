@@ -30,14 +30,21 @@ resources.
 ```
 # Requirements:
 ```
--Python 3.8+: Main programming language.
--Google's Gemini Pro API: For LLM-powered search.
--LangChain: To chain tasks with the language model.
--FAISS: For vector-based similarity search.
--PyPDF2/PDFMiner: For PDF text extraction.
--Sentence-Transformers: To generate vector embeddings.
--Hardware: High-performance CPU/GPU, ample storage, 8GB+ RAM.
--Optional Cloud Platform: For scalability and large datasets.
+**#Software Requirements**
+Python 3.8+: Main programming language for development.
+YOLOv7 Framework: For pose estimation.
+PyTorch: Deep learning framework for model implementation.
+OpenCV: For video and image processing.
+NumPy: For efficient numerical computations.
+Matplotlib/Seaborn: For visualizing pose data and analytics.
+Anaconda: Development environment with Jupyter Notebook.
+
+**Hardware Requirements**
+CPU: Intel i5 or better (recommended: i7 or Ryzen equivalent).
+GPU: NVIDIA GPU with CUDA support (e.g., GTX 1660 or higher) for model training and testing.
+RAM: Minimum 8 GB (recommended: 16 GB for smooth processing).
+Storage: 500 GB or more (SSD preferred for faster data access).
+Camera: High-resolution camera for accurate pose detection during testing.
 ```
 # System Architecture:
 ![image](https://github.com/user-attachments/assets/ff5ace68-3fd0-4354-b282-c872712f70a6)
