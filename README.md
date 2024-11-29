@@ -9,12 +9,24 @@ smartphones in real-time. This happens because real-time execution significantly
 resources.
 # Features
 ```
--Advanced Search & Retrieval
--FAISS Vector Embeddings
--Multi-PDF Indexing
--LangChain Integration
--Contextual Knowledge Extraction
--Scalability
+-Real-Time Pose Estimation
+
+
+-Dynamic Movement Tracking
+
+
+-Enhanced Accuracy and Speed
+
+
+-Error Detection and Correction
+
+
+-Multi-Activity Compatibility
+
+
+-User-Centric Design
+
+
 ```
 # Requirements:
 ```
