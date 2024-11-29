@@ -39,15 +39,16 @@ Camera: High-resolution camera for accurate pose detection during testing.
 # System Architecture:
 ![Picture1](https://github.com/user-attachments/assets/c7188f51-3a1a-4512-836e-0698d0260bf1)
 # Output:
-### IN ANACONDA CONVERT THE CONDA BASE INTO YOLO USING THE BELOW IMAGE  
+### ERROR RECTIFICATION - IN ANACONDA CONVERT THE CONDA BASE INTO YOLO USING THE BELOW IMAGE  
 ![Screenshot 2024-11-29 211125](https://github.com/user-attachments/assets/618e7c4e-0756-4eb7-8e1a-1d4e7b191f5d)
 
 
 ### AFTER THAT THE PROGRAM WILL RUN THEN LIKE GIVE OUTPUT 
 ![Screenshot 2024-11-22 114909](https://github.com/user-attachments/assets/1967bda1-4c77-48d7-86b0-943b424732a1)
 
-### After uploading the pdf doc’s click on summit & process button
-![image](https://github.com/user-attachments/assets/3a7236a4-62f3-41ff-ade4-a4fc99911cae)
+### THE SHOULDERS SHOULD BE IN STRAIGHT CORRECT POSITION AND SHOULD BE ALIGN IN 35 DEGREE 
+![Screenshot 2024-11-22 115109](https://github.com/user-attachments/assets/3b5a6d6c-c3c7-44b6-a0d7-8e6df4eb860e)
+
 
 ### Then ask the question which is related to the uploaded pdf’s and it will give you the content of the related query asked.
 ![image](https://github.com/user-attachments/assets/580c1710-2d54-4f89-9caa-6c6f1a425ac1)
