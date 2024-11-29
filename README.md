@@ -3,7 +3,10 @@
 # Aim:
 Human Pose Estimation is a computer vision-based technology that identifies and classifies specific points on the human body.These points represent our limbs and joints to calculate the angle of flexion, and estimate, well, human pose. While it sounds awkward, knowing the right angle of a joint in a specific exercise is the basis of work for physiotherapists, fitness trainers, and artists. Implementing such capabilities for a machine results in surprisingly useful applications in different fields.
 # About:
-This project integrates Google's Gemini Pro, LangChain, and FAISS to create an advanced document search and retrieval system. It efficiently indexes and searches through multiple PDF documents using FAISS vector embeddings for high-dimensional similarity searches. This combination allows for fast, accurate retrieval of relevant information, making it an ideal tool for research, legal, and academic use cases that require detailed document analysis.
+Position estimation is a computer vision technique that predicts and tracks not only the location of a person or object but the joints specifically. Remarkable progress has been made in posture estimation
+so far, but still recognizing human activities in real-life settings remains unsettled. This task becomes even more challenging when approaching this not from standalone cameras in offline mode, but from 
+smartphones in real-time. This happens because real-time execution significantly raises input data through put and computations needed, while mobile devices are still limited in available computational
+resources.
 # Features
 ```
 -Advanced Search & Retrieval
