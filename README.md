@@ -39,8 +39,9 @@ Camera: High-resolution camera for accurate pose detection during testing.
 # System Architecture:
 ![Picture1](https://github.com/user-attachments/assets/c7188f51-3a1a-4512-836e-0698d0260bf1)
 # Output:
-### After browsing for our website, the following page will be shown first. 
-![image](https://github.com/user-attachments/assets/7c288e5f-1784-42c4-ade8-ecd702717239)
+### IN ANACONDA CONVERT THE CONDA BASE INTO YOLO USING THE BELOW IMAGE  
+![Screenshot 2024-11-29 211125](https://github.com/user-attachments/assets/618e7c4e-0756-4eb7-8e1a-1d4e7b191f5d)
+
 
 ### Click the browse file buttom to upload the pdf documents
 ![image](https://github.com/user-attachments/assets/a2d48321-6658-4746-9e49-3006689d5045)
