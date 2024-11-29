@@ -37,7 +37,7 @@ Storage: 500 GB or more (SSD preferred for faster data access).
 Camera: High-resolution camera for accurate pose detection during testing.
 ```
 # System Architecture:
-Picture1.png
+![Picture1](https://github.com/user-attachments/assets/c7188f51-3a1a-4512-836e-0698d0260bf1)
 # Output:
 ### After browsing for our website, the following page will be shown first. 
 ![image](https://github.com/user-attachments/assets/7c288e5f-1784-42c4-ade8-ecd702717239)
