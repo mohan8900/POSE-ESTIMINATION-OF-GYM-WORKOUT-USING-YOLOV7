@@ -58,23 +58,12 @@ Camera: High-resolution camera for accurate pose detection during testing.
 ![Screenshot 2024-11-22 115143](https://github.com/user-attachments/assets/d158d250-0d4d-4694-9d47-ea417fb5a566)
 
 
-# Results of the "Chat with PDF using Gemini" Project:
+# Results of the "POSE-ESTIMINATION-OF-GYM-WORKOUT-USING-YOLOV7" Project:
 
-PDF Upload & Processing:
-Result: Text extracted from PDFs, split into chunks, and embeddings created/stored in FAISS.
-Success Message: "Processing completed!"
+In conclusion, gym pose estimation technology has emerged as a valuable tool in the fitness industry, offering numerous benefits for both individuals and fitness professionals. This technology utilizes computer vision algorithms and deep learning techniques to accurately track and analyze human movement during exercise routines. One key advantage of gym pose estimation is its ability to provide real-time feedback and guidance to users. By tracking the body's position and alignment, it can identify errors in form or technique, helping individuals to correct their posture and reduce the risk of injury. This instant feedback can enhance the effectiveness of workouts and contribute to better overall results. Moreover, gym pose estimation allows for precise tracking of various exercises and movements. It can recognize and differentiate between different poses, such as squats, lunges, push-ups, or yoga asanas. This versatility makes it a useful tool for a wide range of fitness activities and training programs.
+![image](https://github.com/user-attachments/assets/612fe736-6785-4523-a149-ecc387e0e34d)
 
-User Question Submission:
-Result: Relevant text chunks are retrieved from the FAISS index based on the user's question.
 
-Answer Generation:
-Result: Google Generative AI generates an accurate answer from the PDF content.
-Example: User asks, "What are the climate change factors?"
-Generated Answer: "Temperature changes, altered rainfall, and CO2 levels."
-
-Edge Cases:
-No PDFs: Error: "Please upload a PDF."
-No Answer: Response: "Answer is not available in the context.
 
 # Articles published / References:
 [1] Asbjørn Følstad and Marita Skjuve. 2019. Chatbots for customer service: user experience and motivation. In Proceedings of the 1st International Conference on Conversational User Interfaces (CUI '19). Association for Computing Machinery, New York, NY, USA, Article 1, 1–9. https://doi.org/10.1145/3342775.3342784
