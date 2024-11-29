@@ -1,7 +1,7 @@
 # POSE-ESTIMINATION-OF-GYM-WORKOUT-USING-YOLOV7
 
 # Aim:
-Human Pose Estimation is a computer vision-based technology that identifies and classifies specific points on the human body.These points represent our limbs and joints to calculate the angle of flexion, and estimate, well, human pose. 
+Human Pose Estimation is a computer vision-based technology that identifies and classifies specific points on the human body.These points represent our limbs and joints to calculate the angle of flexion, and estimate, well, human pose.
 # About:
 Position estimation is a computer vision technique that predicts and tracks not only the location of a person or object but the joints specifically. Remarkable progress has been made in posture estimation
 so far, but still recognizing human activities in real-life settings remains unsettled. This task becomes even more challenging when approaching this not from standalone cameras in offline mode, but from 
