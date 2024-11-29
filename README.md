@@ -44,7 +44,7 @@ Camera: High-resolution camera for accurate pose detection during testing.
 
 
 ### AFTER THAT THE PROGRAM WILL RUN THEN LIKE GIVE OUTPUT 
-![Screenshot 2024-11-29 211125](https://github.com/user-attachments/assets/ad1bb32d-155f-4def-ada9-b87bcb375175)
+![Screenshot 2024-11-22 114909](https://github.com/user-attachments/assets/1967bda1-4c77-48d7-86b0-943b424732a1)
 
 ### After uploading the pdf doc’s click on summit & process button
 ![image](https://github.com/user-attachments/assets/3a7236a4-62f3-41ff-ade4-a4fc99911cae)
