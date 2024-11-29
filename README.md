@@ -39,22 +39,24 @@ Camera: High-resolution camera for accurate pose detection during testing.
 # System Architecture:
 ![Picture1](https://github.com/user-attachments/assets/c7188f51-3a1a-4512-836e-0698d0260bf1)
 # Output:
-### ERROR RECTIFICATION - IN ANACONDA CONVERT THE CONDA BASE INTO YOLO USING THE BELOW IMAGE  
+### ERROR RECTIFICATION - IN ANACONDA CONVERTER THE CONDA BASE INTO YOLO USING THE BELOW IMAGE  
 ![Screenshot 2024-11-29 211125](https://github.com/user-attachments/assets/618e7c4e-0756-4eb7-8e1a-1d4e7b191f5d)
 
 
-### AFTER THAT THE PROGRAM WILL RUN THEN LIKE GIVE OUTPUT 
+### AFTER THAT,  THE PROGRAM WILL RUN THEN IT WILL LOOK LIKE, GIVEN OUTPUT 
 ![Screenshot 2024-11-22 114909](https://github.com/user-attachments/assets/1967bda1-4c77-48d7-86b0-943b424732a1)
 
-### THE SHOULDERS SHOULD BE IN STRAIGHT CORRECT POSITION AND SHOULD BE ALIGN IN 35 DEGREE 
+### ERROR - THE SHOULDERS SHOULD BE IN STRAIGHT CORRECT POSITION AND SHOULD BE ALIGN IN 35 DEGREE 
 ![Screenshot 2024-11-22 115109](https://github.com/user-attachments/assets/3b5a6d6c-c3c7-44b6-a0d7-8e6df4eb860e)
 
 
-### Then ask the question which is related to the uploaded pdf’s and it will give you the content of the related query asked.
-![image](https://github.com/user-attachments/assets/580c1710-2d54-4f89-9caa-6c6f1a425ac1)
+### BY SHAKING SHOLDERS AND HANDS GET THE OUTPUT
+![Screenshot 2024-11-22 115047](https://github.com/user-attachments/assets/5b766e49-c4f5-487e-b029-c194ba3159b5)
 
-### Additionly we give that you can print the content,record a screencast,setting(change background mode & change the font ).  
-![image](https://github.com/user-attachments/assets/40020dc2-d9ca-47af-988b-4ed81fc96b0d)
+
+### THE FINAL OUTPUT AND REP COUNT IS NOTED IN THE IMAGE 
+![Screenshot 2024-11-22 115143](https://github.com/user-attachments/assets/d158d250-0d4d-4694-9d47-ea417fb5a566)
+
 
 # Results of the "Chat with PDF using Gemini" Project:
 
