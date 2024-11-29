@@ -18,8 +18,7 @@ resources.
 ```
 # Requirements:
 ```
-```
-# Software Requirements:
+@ Software Requirements:
 
 Python 3.8+: Main programming language for development.
 YOLOv7 Framework: For pose estimation.
@@ -29,7 +28,7 @@ NumPy: For efficient numerical computations.
 Matplotlib/Seaborn: For visualizing pose data and analytics.
 Anaconda: Development environment with Jupyter Notebook.
 
-Hardware Requirements
+<h1>Hardware Requirements<h1>
 CPU: Intel i5 or better (recommended: i7 or Ryzen equivalent).
 GPU: NVIDIA GPU with CUDA support (e.g., GTX 1660 or higher) for model training and testing.
 RAM: Minimum 8 GB (recommended: 16 GB for smooth processing).
