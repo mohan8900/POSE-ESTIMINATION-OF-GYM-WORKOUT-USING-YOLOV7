@@ -37,7 +37,7 @@ Storage: 500 GB or more (SSD preferred for faster data access).
 Camera: High-resolution camera for accurate pose detection during testing.
 ```
 # System Architecture:
-![image]https://github.com/mohan8900/POSE-ESTIMINATION-OF-GYM-WORKOUT-USING-YOLOV7/blob/main/Picture1.png
+Picture1.png
 # Output:
 ### After browsing for our website, the following page will be shown first. 
 ![image](https://github.com/user-attachments/assets/7c288e5f-1784-42c4-ade8-ecd702717239)
